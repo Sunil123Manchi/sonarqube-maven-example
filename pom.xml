@@ -10,7 +10,7 @@
 
     <name>Example of basic Maven project to integrate with SonarQube</name>
     <properties>
-<sonar.host.url>http://52.66.202.71:9000</sonar.host.url>
+<sonar.host.url>65.0.20.203:9000</sonar.host.url>
 <sonar.login>admin</sonar.login>
 <sonar.password>password</sonar.password> 
 </properties>
